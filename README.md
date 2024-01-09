@@ -28,7 +28,7 @@ Dosen Pengampu   : Agung Nugroho, S.Kom., M.Kom.
 
 - [Link Video Penjelasan Project](https://youtu.be/Ph7Ci21IHFE?si=Rcg_vUd0_FcwGWby)
 
-- [Link Hosting]()
+- [Link Hosting](kasiuranrt.my.id)
 
 # Tampilan Web
 
