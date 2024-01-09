@@ -22,7 +22,7 @@ Dosen Pengampu   : Agung Nugroho, S.Kom., M.Kom.
 
 - [Folder PDF](https://drive.google.com/file/d/1DAlIKi9XdCuQUaEWYDjj7Cgfjz9DtcGm/view?usp=sharing)
 
-- [Demo Web].(https://drive.google.com/file/d/1-l3nV-3cwbZLRMpIefyeGgxsi5sHemft/view?usp=drivesdk).
+- [Demo Web](https://drive.google.com/file/d/1-l3nV-3cwbZLRMpIefyeGgxsi5sHemft/view?usp=drivesdk).
 
 # Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
