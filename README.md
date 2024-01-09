@@ -20,12 +20,16 @@ Dosen Pengampu   : Agung Nugroho, S.Kom., M.Kom.
 
 # Untuk penjelasan program berupa pdf silahkan kunjungi link berikut:
 
-## [Folder PDF](https://drive.google.com/file/d/1DAlIKi9XdCuQUaEWYDjj7Cgfjz9DtcGm/view?usp=sharing)
+- [Folder PDF](https://drive.google.com/file/d/1DAlIKi9XdCuQUaEWYDjj7Cgfjz9DtcGm/view?usp=sharing)
+
+- [Demo Web].(https://drive.google.com/file/d/1-l3nV-3cwbZLRMpIefyeGgxsi5sHemft/view?usp=drivesdk).
 
 # Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-## [Link Video Penjelasan Project](https://youtu.be/Ph7Ci21IHFE?si=Rcg_vUd0_FcwGWby)
+- [Link Video Penjelasan Project](https://youtu.be/Ph7Ci21IHFE?si=Rcg_vUd0_FcwGWby)
 
-# Link Hosting :
+- [Link Hosting].().
+
+# Tampilan Web
 
 # Sekian Terima Kasih
